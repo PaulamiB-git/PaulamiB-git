@@ -17,3 +17,6 @@
 
 
 ### My Tech Stack
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulamiB-git&show_icons=true&include_all_commits=true&count_private=true)
+
