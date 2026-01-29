@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://github.com/PaulamiB-git/PaulamiB-git/blob/main/IMG_9480.jpeg" width="160" />
+</p>
 # Paulami Bandyopadhyay
 
 Senior Data & AI Engineering Leader | Independent Researcher  | IEEE Senior Member
