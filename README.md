@@ -1,6 +1,6 @@
 # Paulami Bandyopadhyay
 
-Senior Data & AI Engineering Leader | Independent Researcher  
+Senior Data & AI Engineering Leader | Independent Researcher  | IEEE Senior Member
 Large-scale Data Platforms • Applied ML • AI-driven Decision Systems
 
 ---
@@ -18,6 +18,12 @@ My research interests center on:
 
 ---
 
+### GitHub Activity Snapshot
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulamiB-git&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulamiB-git&layout=compact)
+
+---
 ### Current Focus
 - Leading AI-driven data engineering initiatives at enterprise scale  
 - Designing end-to-end ML pipelines (data ingestion → modeling → production deployment)
@@ -39,13 +45,6 @@ I use GitHub primarily to:
 - Share reference implementations and architectural patterns
 - Prototype research ideas and applied ML workflows
 - Contribute selectively to open-source projects aligned with data and AI infrastructure
-
----
-
-### GitHub Activity Snapshot
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulamiB-git&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulamiB-git&layout=compact)
 
 ---
 
