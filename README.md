@@ -27,6 +27,8 @@ My research interests center on:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulamiB-git&layout=compact&hide_border=true)
 
+![Profile Views](https://komarev.com/ghpvc/?username=PaulamiB-git&color=blue)
+
 ---
 ### Current Focus
 - Leading AI-driven data engineering initiatives at enterprise scale  
