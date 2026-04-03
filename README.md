@@ -60,7 +60,7 @@ I use GitHub primarily to:
 ---
 
 ### Connect
-- ORCID: https://orcid.org/XXXX-XXXX-XXXX-XXXX  
+- ORCID: https://orcid.org/0009-0004-2192-682X  
 - Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?user=euGKcNQAAAAJ&hl=en)…  
 - LinkedIn: https://www.linkedin.com/in/paulamibandyopadhyay/ …  
 
