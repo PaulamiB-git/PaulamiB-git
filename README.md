@@ -1,5 +1,5 @@
 ### Overview
-Large-scale Data Platforms • Applied ML • AI-driven Decision Systems
+Large-scale Data Platforms • Applied ML • • Data Governance • MLOps • AI-driven Decision Systems • Enterprise Architecture • Predictive Analytics • Healthcare Analytics • Insurance Risk Modeling
 
 I am a data engineering and AI leader with 15+ years of experience designing and delivering
 enterprise-scale data platforms and intelligent systems in complex, highly regulated environments.
