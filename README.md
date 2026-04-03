@@ -1,15 +1,6 @@
-<p align="left">
-  <img src="https://github.com/PaulamiB-git/PaulamiB-git/blob/main/IMG_9480.jpeg" width="160" />
-</p>
-
-### Paulami Bandyopadhyay
-
-Senior Data & AI Engineering Leader | Independent Researcher  | IEEE Senior Member <br>
+### Overview
 Large-scale Data Platforms • Applied ML • AI-driven Decision Systems
 
----
-
-### Overview
 I am a data engineering and AI leader with 15+ years of experience designing and delivering
 enterprise-scale data platforms and intelligent systems in complex, highly regulated environments.
 My work focuses on translating advanced analytics, machine learning, and AI into
@@ -19,6 +10,9 @@ My research interests center on:
 - Predictive risk modeling in healthcare
 - AI-driven optimization for cost and outcome improvement
 - Scalable data architectures for responsible AI systems
+
+*This profile highlights selected technical work. Many enterprise initiatives are proprietary
+and not publicly visible.*
 
 <!--
 ---
@@ -69,7 +63,4 @@ I use GitHub primarily to:
 - Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?user=euGKcNQAAAAJ&hl=en)…  
 - LinkedIn: https://www.linkedin.com/in/paulamibandyopadhyay/ …  
 
----
 
-*This profile highlights selected technical work. Many enterprise initiatives are proprietary
-and not publicly visible.*
