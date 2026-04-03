@@ -23,9 +23,9 @@ My research interests center on:
 ---
 
 ### GitHub Activity Snapshot
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulamiB-git)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulamiB-git&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulamiB-git)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulamiB-git&layout=compact&hide_border=true)
 
 ---
 ### Current Focus
