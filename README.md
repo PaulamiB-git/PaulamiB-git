@@ -4,7 +4,7 @@
 
 ### Paulami Bandyopadhyay
 
-Senior Data & AI Engineering Leader | Independent Researcher  | IEEE Senior Member
+Senior Data & AI Engineering Leader | Independent Researcher  | IEEE Senior Member <br>
 Large-scale Data Platforms • Applied ML • AI-driven Decision Systems
 
 ---
