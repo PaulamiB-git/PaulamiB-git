@@ -20,9 +20,10 @@ My research interests center on:
 - AI-driven optimization for cost and outcome improvement
 - Scalable data architectures for responsible AI systems
 
+<!--
 ---
 
-<!--### GitHub Activity Snapshot
+### GitHub Activity Snapshot
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulamiB-git&show_icons=true&theme=default)
 
