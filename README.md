@@ -8,7 +8,7 @@ measurable business and societal impact.
 
 My research interests center on:
 - Data Engineering and Data Architecture in Actuarial and Insurance Systems
-- Predictive risk modeling in healthcare
+- Predictive risk modeling in Healthcare
 - AI-driven optimization for cost and outcome improvement
 - Scalable data architectures for responsible AI systems
 
